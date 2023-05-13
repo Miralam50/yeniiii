@@ -1,0 +1,16 @@
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\bin\Debug\net5.0\myDemoApp.exe
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\bin\Debug\net5.0\myDemoApp.deps.json
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\bin\Debug\net5.0\myDemoApp.runtimeconfig.json
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\bin\Debug\net5.0\myDemoApp.runtimeconfig.dev.json
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\bin\Debug\net5.0\myDemoApp.dll
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\bin\Debug\net5.0\ref\myDemoApp.dll
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\bin\Debug\net5.0\myDemoApp.pdb
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\obj\Debug\net5.0\myDemoApp.csproj.AssemblyReference.cache
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\obj\Debug\net5.0\myDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\obj\Debug\net5.0\myDemoApp.AssemblyInfoInputs.cache
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\obj\Debug\net5.0\myDemoApp.AssemblyInfo.cs
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\obj\Debug\net5.0\myDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\obj\Debug\net5.0\myDemoApp.dll
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\obj\Debug\net5.0\ref\myDemoApp.dll
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\obj\Debug\net5.0\myDemoApp.pdb
+C:\Users\miralamqs\Desktop\myDemoApp\myDemoApp\obj\Debug\net5.0\myDemoApp.genruntimeconfig.cache
